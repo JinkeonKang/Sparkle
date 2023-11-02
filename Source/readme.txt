@@ -10,3 +10,16 @@ Table 2 summarizes the success ratios  ̃p and  ̃q in our experiments, which im
 (U, V) <-- (ZL, ZR)
 u = u + (v >>> 31)
 u = v ^ (u >>> 24)
+
+The success ratio of reduced Alzette (b=16, p):
+36679/100000 (30.872000 sec)
+The success ratio of reduced Alzette (b=16, q):
+63168/100000 (54.987000 sec)
+The success ratio of reduced Alzette (b=24, p):
+3847/10000 (1800.958000 sec)
+The success ratio of reduced Alzette (b=24, q):
+6382/10000 (3100.948000 sec)
+The success ratio of reduced Alzette (b=32, p):
+376/1000 (20317.696000 sec)
+The success ratio of reduced Alzette (b=32, q):
+629/1000 (39085.183000 sec)

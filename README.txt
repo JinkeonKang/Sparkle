@@ -8,8 +8,7 @@ b     p                 q
 24    3,728/10,000      6,376/10,000
 32    393/1,000         642/1,000
 
-In each trial of the experiments for p, we randomly chose two nonzero values as ∆ and ∇ and tested whether there exists an input pairs (z, z′) satisfying (1). In each trial of the experiments for q, we randomly chose two nonzero values as ∆ and ∇ and two different values as k and k′ and tested whether there exists an input pairs (z, z′) satisfying
-(2). 
+In each trial of the experiments for p, we randomly chose two nonzero values as ∆ and ∇ and tested whether there exists an input pairs (z, z′) satisfying (1). In each trial of the experiments for q, we randomly chose two nonzero values as ∆ and ∇ and two different values as k and k′ and tested whether there exists an input pairs (z, z′) satisfying (2). 
 
 The rotation amounts (31, 17, 0, 24, 24, 17, 31, 16) in Alzette were replaced with 
 (7, 5, 0, 6, 6, 5, 7, 4) in 16-bit-block variant, 

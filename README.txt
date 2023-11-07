@@ -4,9 +4,9 @@ We performed experiments using reduced variants of Alzette with input sizes of 1
 
 Table 2 shows success ratios ̃p and ̃q in the experiments for reduced Alzette with the block size b = 16, 24, and 32.
 b     p                 q
-16    37,020/100,000    62,252/100,000
-24    3,728/10,000      6,376/10,000
-32    393/1,000         642/1,000
+16    36,679/100,000    63,168/100,000
+24    3,847/10,000      6,382/10,000
+32    376/1,000         629/1,000
 
 In each trial of the experiments for p, we randomly chose two nonzero values as ∆ and ∇ and tested whether there exists an input pairs (z, z′) satisfying (1). In each trial of the experiments for q, we randomly chose two nonzero values as ∆ and ∇ and two different values as k and k′ and tested whether there exists an input pairs (z, z′) satisfying (2). 
 
